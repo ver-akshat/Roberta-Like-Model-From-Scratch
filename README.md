@@ -5,4 +5,5 @@ Roberta like since it has no NSP task and has MLM task only and the architecture
 similar to DistilBERT so its faster and has good inference time than Robert
 
 I trained this model on a small text file as the goal is to understand MLM task in depth
-by implementing a transformer model from scratch.
+by implementing a transformer model from scratch.I trained it for 2 epochs but this number can be 
+changed depending on the task and data availablility.
